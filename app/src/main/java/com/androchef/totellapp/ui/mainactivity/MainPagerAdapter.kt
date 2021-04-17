@@ -7,7 +7,7 @@ import com.androchef.totellapp.ui.qrscanner.QRScannerFragment
 import com.androchef.totellapp.ui.scanner_history.ScannedHistoryFragment
 
 /**
- * Developed by Happy on 6/7/19
+ * Developed by Arnav 2021
  */
 class MainPagerAdapter(fm: FragmentManager) : FragmentStatePagerAdapter(fm) {
 
