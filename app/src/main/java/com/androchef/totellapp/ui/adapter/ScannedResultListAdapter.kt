@@ -16,7 +16,7 @@ import com.androchef.totellapp.utils.visible
 import kotlinx.android.synthetic.main.layout_single_item_qr_result.view.*
 
 /**
- * Developed by Happy on 6/7/19
+ * Developed by Arnav 2021
  */
 class ScannedResultListAdapter(
     var dbHelperI: DbHelperI,
