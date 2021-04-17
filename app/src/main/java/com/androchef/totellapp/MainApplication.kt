@@ -4,7 +4,7 @@ import android.app.Application
 import com.facebook.stetho.Stetho
 
 /**
- * Developed by Happy on 2/7/19
+ Developed by Arnav 2021
  */
 class MainApplication : Application() {
 
