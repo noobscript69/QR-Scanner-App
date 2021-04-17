@@ -18,7 +18,8 @@ import kotlinx.android.synthetic.main.layout_qr_result_show.*
 
 
 /**
- * Developed by Happy on 3/7/19
+ * Developed by Arnav 2021
+
  */
 class QrCodeResultDialog(var context: Context) {
 
